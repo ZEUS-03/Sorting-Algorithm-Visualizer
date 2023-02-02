@@ -1,6 +1,6 @@
 # sorting-algorithm-visualizer
 
-##Introduction:
+## Introduction:
 
 - This project is based on the idea of visualization of common sorting algorithms such as:
 
@@ -18,11 +18,11 @@
 
 - Link to website: https://visualizesortingalgos.netlify.app
 
-##Structure:
+## Structure:
 
 - HTML and CSS are used for designing basic frontend. Also Bootstrap is used for nav bar and buttons present in nav bar.
 
--JavaScript is extensively used for DOM manipulation.(such as creating new bars and replacing bars to visualize sorting pattern)
+- JavaScript is extensively used for DOM manipulation.(such as creating new bars and replacing bars to visualize sorting pattern)
 
 - I have also provided speed and size of array buttons to control the speed of the sorting visualization and also the size of the displayed array(or bars).
 
